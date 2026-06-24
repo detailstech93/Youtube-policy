@@ -129,7 +129,8 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 نستخدم روابط تابعة مثل Amazon Affiliate وما شابه، مع ذكر ذلك بشكل صريح في صندوق الوصف. استخدام الرابط أو تجنبه قرار المشاهد وحده، ولا علاقة له بما نقوله عن المنتج بأي شكل من الأشكال.
 
 ## للتواصل والاستفسار
+
+</div>
 - **Email:** Detailstech93@hotmail.com
 - **YouTube:** @Detailstech93
 
-</div>
