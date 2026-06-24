@@ -131,4 +131,5 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 ## للتواصل والاستفسار
 - **Email:** Detailstech93@hotmail.com
 - **YouTube:** @Detailstech93
+
 </div>
