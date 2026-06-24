@@ -65,6 +65,7 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 - **YouTube:** @Detailstech93
 
 
+<div dir="rtl" align="right">
 # Details Tech
 ## سياسة المراجعات والمحتوى المدفوع
 **نسخة 2026 | هذه الوثيقة عامة ومتاحة للجمهور**
@@ -130,3 +131,4 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 ## للتواصل والاستفسار
 - **Email:** Detailstech93@hotmail.com
 - **YouTube:** @Detailstech93
+</div>
