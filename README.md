@@ -3,7 +3,7 @@
 **2026 Edition | This document is public and available to everyone**
 
 ## Introduction
-Details Tech focuses on reviews of tech devices, mini PCs, home servers, and AI hardware. The target audience is Arabic-speaking tech users looking for honest reviews rather than promotional content.
+Details Tech is a dedicated technology channel focusing on in-depth, hands-on reviews and hardware testing. While our core specialization lies in mini PCs, home servers, and AI hardware, we look at and review a wide range of consumer electronics, components, and tech gadgets that matter to our audience. Our target audience is Arabic-speaking tech users looking for honest, data-driven reviews rather than promotional content.
 
 This document defines the terms governing any cooperation with the channel. Sharing it with a partner means negotiations have reached an active stage, while publishing it publicly tells the audience what we accept and what we refuse.
 
@@ -36,7 +36,7 @@ Sending a product to the channel does not guarantee coverage. Products are selec
 
 ### Testing
 - Products may undergo real stress testing, and we are not responsible for damage caused by normal or heavy use.
-- For pre-production samples, this will be clearly stated in the video, along with a note that the final product may differ.
+- For pre-production samples, this will be clearly stated in the video, along with a note that the final product may differ. In the event of substantial differences between the pre-production sample and the final retail version, the channel reserves the right to clarify this to the audience via an update in the description box or the comments section.
 
 ### Returns
 Samples are only returned if two conditions are met together: there is a prior written agreement, and the company covers the full shipping cost.
@@ -46,7 +46,10 @@ An advertiser may review the video before publication to verify technical accura
 
 If the review will take more than 48 hours, please coordinate in advance because the publishing schedule is fixed.
 
-## 6) Disclosure and transparency
+## 6) Embargoes and NDAs
+The channel respects Non-Disclosure Agreements (NDAs) and official embargo dates, provided that samples arrive with sufficient time to conduct the necessary testing and prepare a comprehensive review. If a sample arrives late, publication may be delayed to ensure the quality and accuracy of the content.
+
+## 7) Disclosure and transparency
 We apply the following disclosure standard to all paid or sponsored content:
 
 - A spoken disclosure in the first 30 seconds of the video.
@@ -54,10 +57,10 @@ We apply the following disclosure standard to all paid or sponsored content:
 - Activation of YouTube’s official **Includes paid promotion** option for sponsored videos or gifted products.
 - For gifted products without a financial agreement, that fact is mentioned in the description.
 
-## 7) Content usage rights
+## 8) Content usage rights
 All videos, images, and materials produced by Details Tech remain the property of the channel unless otherwise agreed in writing. The sponsor may not use the video, or any part of it, in paid advertising campaigns without prior written permission.
 
-## 8) Affiliate links
+## 9) Affiliate links
 We use affiliate links such as Amazon Affiliate and similar programs, and we disclose this clearly in the description box. Whether a viewer uses or avoids the link is entirely their choice and has no impact on what we say about the product in any way.
 
 ## Contact
@@ -71,7 +74,7 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 **نسخة 2026 | هذه الوثيقة عامة ومتاحة للجمهور**
 
 ## مقدمة
-قناة Details Tech متخصصة في مراجعة الأجهزة التقنية، الحواسيب المصغرة، الخوادم المنزلية، وأجهزة الذكاء الاصطناعي. الجمهور المستهدف هو المستخدم التقني العربي الذي يبحث عن مراجعات صادقة لا عن المحتوى الترويجي.
+قناة Details Tech هي منصة تقنية متخصصة في تقديم مراجعات معمقة واختبارات عملية للأجهزة والعتاد التقني. نركز بشكل أساسي على الحواسب المصغرة، الخوادم المنزلية، وأجهزة الذكاء الاصطناعي، إلى جانب تغطية مختلف الابتكارات والأجهزة التقنية الاستهلاكية التي تهم المستخدم. جمهورنا المستهدف هو المستخدم التقني العربي الذي يبحث عن مراجعات صادقة تعتمد على الأرقام والواقع، لا على المحتوى الترويجي.
 
 هذه الوثيقة تحدد الشروط التي تحكم أي تعاون مع القناة. إرسالها إليك يعني أنك وصلت إلى مرحلة التفاوض الفعلي، ونشرها للعموم يعني أن جمهورنا يعرف ما نقبله وما نرفضه.
 
@@ -104,7 +107,7 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 
 ### الاختبارات
 - المنتجات قد تخضع لاختبارات ضغط حقيقية، ولسنا مسؤولين عن أضرار الاستخدام الطبيعي أو المكثف.
-- في حالة عينات ما قبل الإطلاق (Pre-production)، يتم الإشارة إلى ذلك صراحةً في الفيديو مع توضيح أن المنتج النهائي قد يختلف.
+- في حالة عينات ما قبل الإطلاق (Pre-production)، يتم الإشارة إلى ذلك صراحةً في الفيديو مع توضيح أن المنتج النهائي قد يختلف وفي حال تبين وجود فروقات جوهرية بين عينة ما قبل الإنتاج والنسخة النهائية المطروحة للمستهلكين، تحتفظ القناة بالحق في توضيح ذلك للجمهور عبر تحديث في صندوق الوصف أو في قسم التعليقات.
 
 ### الإرجاع
 العينات لا تُعاد إلا بشرطين مجتمعين: اتفاق مسبق كتابي، وأن تتحمل الشركة كامل تكاليف الشحن.
@@ -114,7 +117,10 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 
 إذا كانت مراجعة الفيديو ستأخذ أكثر من 48 ساعة، يرجى التنسيق مسبقًا لأن جداول النشر ثابتة.
 
-## 6) الإفصاح والشفافية
+## 6) حظر النشر المؤقت (embargo)
+تحترم القناة اتفاقيات عدم الإفصاح ومواعيد حظر النشر الرسمية، بشرط وصول العينات قبل وقت كافٍ يسمح بإجراء الاختبارات اللازمة وإعداد مراجعة متكاملة. وفي حال تأخر وصول العينة، قد يتم تأجيل النشر لضمان جودة المحتوى ودقته.
+
+## 7) الإفصاح والشفافية
 نطبق معيار الإفصاح التالي على كل محتوى مدفوع أو مدعوم:
 
 - إعلان شفهي في أول 30 ثانية من الفيديو.
@@ -122,10 +128,10 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 - تفعيل ميزة **Includes paid promotion** الرسمية على يوتيوب في حالة الفيديو المدفوع أو المنتجات المهداة.
 - في حالة المنتجات المهداة دون اتفاق مالي، يتم ذكر ذلك في الوصف.
 
-## 7) حقوق استخدام المحتوى
+## 8) حقوق استخدام المحتوى
 جميع الفيديوهات والصور والمواد المنتجة من قبل Details Tech تبقى ملكًا للقناة ما لم يتم الاتفاق كتابيًا على خلاف ذلك. ولا يحق للراعي استخدام الفيديو أو جزء منه في الحملات الإعلانية المدفوعة دون موافقة كتابية مسبقة.
 
-## 8) الروابط التابعة (Affiliate Links)
+## 9) الروابط التابعة (Affiliate Links)
 نستخدم روابط تابعة مثل Amazon Affiliate وما شابه، مع ذكر ذلك بشكل صريح في صندوق الوصف. استخدام الرابط أو تجنبه قرار المشاهد وحده، ولا علاقة له بما نقوله عن المنتج بأي شكل من الأشكال.
 
 ## للتواصل والاستفسار
