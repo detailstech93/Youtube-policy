@@ -11,7 +11,7 @@ This document defines the terms governing any cooperation with the channel. Shar
 A collaboration with Details Tech can take one of three forms:
 
 - **Integration:** a sponsorship segment placed inside a video that is not otherwise related to your product, with 60 to 90 seconds dedicated to it.
-- **Sponsored Review:** a full video dedicated to your product, with clear disclosure in the first 30 seconds of the video and in the description box.
+- **Sponsored Video:** a full video dedicated to your product, with clear disclosure in the first 30 seconds of the video and in the description box. The word "review" is reserved for unpaid coverage.
 - **Review Sample:** the product is sent at no monetary cost, with no guarantee of coverage, depending on the outcome after testing.
 
 ## 2) What a sponsor cannot buy
@@ -27,6 +27,8 @@ Regardless of budget or collaboration size, these boundaries are fixed and non-n
 ## 3) Editorial independence
 All results and conclusions are based on hands-on testing. Details Tech does not guarantee any positive or negative outcome for any product before it goes through an intensive testing phase.
 
+Payment is never tied to the outcome. Once testing has started, the sponsor cannot cancel or block publication because of the results, and the agreed fee remains due in full. If the sponsor withdraws, the channel may publish its findings as an independent, non-sponsored video.
+
 ## 4) Review sample policy
 Sending a product to the channel does not guarantee coverage. Products are selected based on how relevant they are to the channel’s audience.
 
@@ -41,8 +43,10 @@ Sending a product to the channel does not guarantee coverage. Products are selec
 ### Returns
 Samples are only returned if two conditions are met together: there is a prior written agreement, and the company covers the full shipping cost.
 
+Samples that are not returned may be used for long-term testing and future comparisons, or given to viewers in disclosed giveaways.
+
 ## 5) Pre-publication review
-An advertiser may review the video before publication to verify technical accuracy only. They may not request the removal or editing of any criticism or opinion included in the video.
+Sponsors may review a sponsored video or integration before publication to verify factual details only (specs, pricing, product names). They may not request changes to or removal of any criticism or opinion. Independent reviews and review samples are never shown to any company before publication.
 
 If the review will take more than 48 hours, please coordinate in advance because the publishing schedule is fixed.
 
@@ -63,6 +67,15 @@ All videos, images, and materials produced by Details Tech remain the property o
 ## 9) Affiliate links
 We use affiliate links such as Amazon Affiliate and similar programs, and we disclose this clearly in the description box. Whether a viewer uses or avoids the link is entirely their choice and has no impact on what we say about the product in any way.
 
+## 10) Corrections
+If we find an error in a fact or figure, we pin a clarifying comment and update the description within 48 hours. If the error changes the conclusion, we state the correction in our next video. Corrections are never subject to sponsor approval.
+
+## 11) Conflicts of interest
+We do not review or accept sponsorships from any company in which we hold direct shares or a direct investment. If such a company appears in a news video, we disclose that interest in the video and the description. Index funds (ETFs) are not considered a direct interest.
+
+## 12) Use of AI
+We may use AI tools for research, translation, and help with some stages of scriptwriting. All test results, figures, and opinions come only from our own hands-on testing, and we never use generated data. Any realistic AI-generated image or voice is disclosed in line with YouTube's policy.
+
 ## Contact
 - **Email:** Detailstech93@hotmail.com
 - **YouTube:** @Detailstech93
@@ -81,8 +94,8 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 ## 1) ما الذي يمكن للراعي شراؤه
 التعاون مع قناة Details Tech يقوم على واحد من ثلاثة أشكال:
 
-- **تكامل (Integration):** رعاية داخل فيديو لا يكون مرتبطًا بمنتجك مباشرة، ويُخصَّص منه 60 إلى 90 ثانية لمنتجك.
-- **فيديو مراجعة مدفوع الأجر (Sponsored Review):** فيديو كامل لمنتجك مع الإفصاح الصريح في أول 30 ثانية من الفيديو وفي صندوق الوصف.
+- **تكامل (Integration):** رعاية داخل فيديو لا يكون مرتبطًا بمنتجك مباشرة، ويُخصَّص منه 60 إلى 90 ثانية لمنتجك.
+- **فيديو ممول (Sponsored Video):** فيديو كامل مخصص لمنتجك، مع الإفصاح الصريح في أول 30 ثانية من الفيديو وفي صندوق الوصف. كلمة «مراجعة» نستخدمها للتغطية غير المدفوعة فقط.
 - **عينة مراجعة مجانية (Review Sample):** يتم إرسال المنتج بدون أي مقابل مادي، ودون ضمان للنشر، تبعًا لطبيعة التقييم بعد الاختبار.
 
 ## 2) ما الذي لا يمكن للراعي شراؤه
@@ -98,6 +111,8 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 ## 3) الاستقلالية التحريرية
 جميع النتائج والاستنتاجات تعتمد على الاختبارات العملية. قناة Details Tech لا تضمن للراعي أي تقييم إيجابي أو سلبي لأي منتج قبل أن يمر بمرحلة الاختبار المكثف.
 
+الأجر المتفق عليه لا يرتبط بنتيجة الاختبار. بعد بدء الاختبار لا يحق للراعي إلغاء الفيديو أو منع نشره بسبب النتائج، ويبقى الأجر المتفق عليه مستحقًا كاملًا. وفي حال انسحاب الراعي، تحتفظ القناة بحق نشر نتائجها في فيديو مستقل غير ممول.
+
 ## 4) سياسة عينات المراجعة
 إرسال أي منتج إلى القناة لا يضمن التغطية. يتم اختيار المنتجات بناءً على مدى ملاءمتها لجمهور القناة.
 
@@ -112,8 +127,10 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 ### الإرجاع
 العينات لا تُعاد إلا بشرطين مجتمعين: اتفاق مسبق كتابي، وأن تتحمل الشركة كامل تكاليف الشحن.
 
+العينات التي لا تُعاد قد تُستخدم في اختبارات طويلة الأمد ومقارنات مستقبلية، أو تُقدَّم للمشاهدين في سحوبات معلنة.
+
 ## 5) حق المراجعة المسبقة
-يحق للمعلن مراجعة الفيديو قبل النشر للتأكد من دقة المعلومات التقنية حصراً، ولا يحق له طلب تعديل أو حذف أي نقد أو رأي تم ذكره خلال الفيديو.
+يحق للراعي مراجعة الفيديو الممول أو فقرة الرعاية قبل النشر، للتحقق من دقة المعلومات الواقعية حصرًا (المواصفات، الأسعار، أسماء المنتجات). ولا يحق له طلب تعديل أو حذف أي نقد أو رأي. أما المراجعات المستقلة وعينات المراجعة فلا تُعرض على أي جهة قبل النشر.
 
 إذا كانت مراجعة الفيديو ستأخذ أكثر من 48 ساعة، يرجى التنسيق مسبقًا لأن جداول النشر ثابتة.
 
@@ -133,6 +150,15 @@ We use affiliate links such as Amazon Affiliate and similar programs, and we dis
 
 ## 9) الروابط التابعة (Affiliate Links)
 نستخدم روابط تابعة مثل Amazon Affiliate وما شابه، مع ذكر ذلك بشكل صريح في صندوق الوصف. استخدام الرابط أو تجنبه قرار المشاهد وحده، ولا علاقة له بما نقوله عن المنتج بأي شكل من الأشكال.
+
+## 10) تصحيح الأخطاء
+إذا اكتشفنا خطأ في معلومة أو رقم، نثبّت تعليقًا توضيحيًا ونحدّث صندوق الوصف خلال 48 ساعة. وإذا كان الخطأ يغيّر الاستنتاج، نذكر التصحيح صراحةً في الفيديو التالي. التصحيحات لا تخضع لموافقة أي راعٍ.
+
+## 11) تضارب المصالح
+لا نراجع منتجات أي شركة نملك فيها أسهمًا أو استثمارًا مباشرًا، ولا نقبل منها رعاية. وإذا ورد اسمها في فيديو إخباري، نفصح عن هذه المصلحة في الفيديو والوصف. صناديق المؤشرات (ETFs) لا تُعتبر مصلحة مباشرة.
+
+## 12) استخدام الذكاء الاصطناعي
+قد نستخدم أدوات الذكاء الاصطناعي في البحث والترجمة والمساعدة في بعض مراحل كتابة النص. أما نتائج الاختبارات والأرقام والآراء فتأتي حصرًا من تجربتنا العملية، ولا نستخدم بيانات مولّدة. وأي صورة أو صوت مولّد بشكل واقعي يُفصح عنه حسب سياسة يوتيوب.
 
 ## للتواصل والاستفسار
 
